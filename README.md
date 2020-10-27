@@ -1,6 +1,6 @@
 # Yolo_v4L_mish yaml to torchviz Block Diagram  
 ## 目的:
-### Yolo 的 yaml 不容易理解，最好以方塊結構圖(block-diagram)表示，過程可以使用 torchviz 或是 Netron 將 yaml 可視化，可以更清楚瞭解 Yolov4 的整體架構。個人比較喜歡用 torchviz 將每個基本單元顯示出來，看看圖片(3,640,640)經過各單元後的維度與尺寸變化。  
+### Yolo 的 yaml 不容易理解，最好以方塊結構圖(block-diagram)表示，過程可以使用 torchviz 或是 Netron 將 Yolov4 可視化，可以更清楚瞭解 Yolov4 的整體架構。個人比較喜歡用 torchviz 將每個基本單元顯示出來，看看圖片(3,640,640)經過各單元後的維度與尺寸變化。  
 
 ## Yolo_v4L_mish.yaml 架構:
 ![yolov4L_yaml.png](images/yolov4L_yaml.png)
