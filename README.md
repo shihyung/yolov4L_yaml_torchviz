@@ -22,7 +22,7 @@
 ### 雖然網路上很多 Yolo_v4 方塊結構圖，個人比較喜歡 BaiYong 的版本，看起來會比較像從 Yolo_v3 改上來的，比較容易看的出來 v4 和 v3 的差異。
 ![yolo_structure_baiyong.png](images/yolo_structure_baiyong.png)
 ***
-### 不過我又稍加修改成 backbone -> FPN -> PAN 的順序，更容易從中看的出來尺寸的變化。
+### 不過我又稍加重新製作一份，藉此更了解Yolo_v4的架構，也觀察尺寸的變化。
 ![bcm.png](images/bcm.png)  
 
 ![bottleneck.png](images/bottleneck.png)  
