@@ -23,17 +23,9 @@
 ![yolo_structure_baiyong.png](images/yolo_structure_baiyong.png)
 ***
 ### 不過我又稍加重新製作一份，藉此更了解Yolo_v4的架構，也觀察尺寸的變化。
-![bcm.png](images/bcm.png)  
+![yolov4_blocks1.png](images/yolov4_blocks1.png)  
 
-![bottleneck.png](images/bottleneck.png)  
-
-![bottleneckCSP.png](images/bottleneckCSP.png)  
-
-![bottleneckCSP2.png](images/bottleneckCSP2.png)  
-
-![spp.png](images/spp.png)  
-
-![sppCSP.png](images/sppCSP.png)  
+![yolov4_blocks2.png](images/yolov4_blocks2.png)  
 
 ![yolov4_block_diagram.png](images/yolov4_block_diagram.png)  
 
