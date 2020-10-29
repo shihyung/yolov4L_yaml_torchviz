@@ -19,10 +19,10 @@
 ![yolov4L_out3.png](images/yolov4_out3.png)
 ***
 # Block Diagram
-### 雖然網路上很多 Yolo_v4 方塊結構圖，個人比較喜歡 BaiYong 的版本，看起來會比較像從 Yolo_v3 改上來的，比較容易看的出來 v4 和 v3 的差異。
+### 雖然網路上很多 Yolo_v4 方塊結構圖，個人比較喜歡 BaiYong 的版本，看起來會比較像從 Yolo_v3 改上來的，比較容易看的出來 v4 和 v3 的差異。更重要的是，可以更清楚的看的出來 backbone / FPN / PAN 的串接。
 ![yolo_structure_baiyong.jpg](images/yolo_structure_baiyong.jpg)
 ***
-### 不過我又稍加重新製作一份，藉此更了解Yolo_v4的架構，也觀察尺寸的變化。
+### 不過我這重新製作一份，藉此更了解Yolo_v4的架構，也觀察尺寸的變化。
 ![yolov4_blocks1.png](images/yolov4_blocks1.png)  
 
 ![yolov4_blocks2.png](images/yolov4_blocks2.png)  
